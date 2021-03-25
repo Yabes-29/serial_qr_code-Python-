@@ -1,3 +1,3 @@
-# inno_serial_number
+# QR Code and Serial Number
 
 Serial Number for After Sales PT. Innovasi Sarana Grafindo
